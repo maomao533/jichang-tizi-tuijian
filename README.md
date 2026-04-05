@@ -886,7 +886,7 @@
 
 #### 2. 稳定办公/刷剧组（适合追求丝滑体验）
 * **主力 A**：**[宝可梦加速](https://go.clashshome.com/baokemeng)** (¥19.9/月，IEPL 专线保稳)
-* **主力 B**：**[红杏云](https://go.clashshome.com/hongxingyun)** (¥20/月，节点可用率高，流媒体解锁强)
+* **主力 B**：**[Mitce](https://go.clashshome.com/mitcejc)** (1.5USD/月，节点可用率高，流媒体解锁强)
 * **紧急备用**：**[悦通](https://go.clashshome.com/yuetong)/[魔戒](https://go.clashshome.com/mojieapp) 不限时包** (一次性买断，备用首选)
 * **总成本**：约 ¥40/月，晚高峰 4K 随意拖动。
 
