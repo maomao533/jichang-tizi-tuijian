@@ -65,7 +65,7 @@
 
 - [一、主力机场（重点推荐）](#main)
   - [1. 红杏云](#hongxingyun)
-  - [2. 宝可梦加速](#baokemeng)
+  - [2. 宝可梦加速器](#baokemeng)
   - [3. M78 星云](#m78)
   - [4. Mitce](#mitce)
   - [5. 悦通](#yuetong)
@@ -147,10 +147,10 @@
 ---
 
 <span id="baokemeng"></span>
-### 2. 宝可梦加速 - IEPL/IPLC + 新疆可用
+### 2. 宝可梦加速器 - IEPL/IPLC + 新疆可用
 
 **官网入口**：
-- [宝可梦加速官网](https://go.clashshome.com/baokemeng)
+- [宝可梦加速器官网](https://go.clashshome.com/baokemeng)
 
 **优惠码**：`9999`（新用户首单 9 折）
 
@@ -195,7 +195,7 @@
 
 
 <p align="center">
-  <img src="images/baokemeng.png" width="100%" alt="宝可梦加速">
+  <img src="images/baokemeng.png" width="100%" alt="宝可梦加速器">
 </p>
 
 ---
@@ -878,7 +878,7 @@
 |------|--------|---------|------------|
 | 红杏云 | `ABING888` | 全场 8 折，账户可用 2 次 | 是 |
 | 乌龟加速 | `ABING888` | 全场 8 折 | 是 |
-| 宝可梦加速 | `9999` | 新用户首单 9 折 | 是 |
+| 宝可梦加速器 | `9999` | 新用户首单 9 折 | 是 |
 | M78 星云 | `year80` | 年付 8 折 | 是 |
 | XSUS | `OFF80` | 年付 8 折 | 是 |
 | Mitce | `SAKURA2026` | 日本优化线路套餐锁定终身 8 折 | 是 |
@@ -913,7 +913,7 @@
 * **总成本**：约 ¥16/月，买个双保险。
 
 #### 2. 稳定办公/刷剧组（适合追求丝滑体验）
-* **主力 A**：**[宝可梦加速](https://go.clashshome.com/baokemeng)** (¥19.9/月，IEPL 专线保稳)
+* **主力 A**：**[宝可梦加速器](https://go.clashshome.com/baokemeng)** (¥19.9/月，IEPL 专线保稳)
 * **主力 B**：**[Mitce](https://go.clashshome.com/mitcejc)** (1.5USD/月，节点可用率高，流媒体解锁强)
 * **紧急备用**：**[悦通](https://go.clashshome.com/yuetong)/[魔戒](https://go.clashshome.com/mojieapp) 不限时包** (一次性买断，备用首选)
 * **总成本**：约 ¥40/月，晚高峰 4K 随意拖动。
