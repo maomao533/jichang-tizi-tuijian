@@ -94,7 +94,7 @@
 ---
 
 <span id="hongxingyun"></span>
-### 1. 红杏云 - IEPL 专线 + 30多个 节点 （专线在官方客户端使用）
+### 1. 红杏云 - IEPL 专线 + 30多个 节点 （官方客户端有独立线路）
 
 **官网入口**：
 - [红杏云官网](https://go.clashshome.com/hongxingyun)
@@ -109,7 +109,7 @@
 | 入口与过境 | 国内、香港 |
 | 节点地区 | 香港、台湾、日本、新加坡、美国、韩国、英国、德国等 |
 | 落地 ISP | China Mobile（移动骨干）、Amazon.com（AWS） |
-| 节点数量 | 80+ |
+| 节点数量 | 30+ |
 | 协议 | Vless + Hysteria2 |
 | 设备限制 | 不限制（合理使用） |
 | AI流媒体解锁 | ChatGPT 全解锁 · Netflix / Disney+ / YouTube Premium |
