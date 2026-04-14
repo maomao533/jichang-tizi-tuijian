@@ -10,7 +10,7 @@
 
 ## 📢 近期公告
 
-> 新增主力机场：[快雷go](#kuaileigo)。IEPL专线为主，98% 节点可用率，支持 TikTok/Netflix/Disney+/ChatGPT 全流媒体解锁，近期上线电信方向优化，电信用户体验提升明显，速度确实很快很流畅。综合体验最好的依旧是[红杏云](https://go.clashshome.com/hongxingyun)。
+> 新增主力机场：[快雷go](#kuaileigo)。IEPL专线为主，98% 节点可用率，支持 TikTok/Netflix/Disney+/ChatGPT 全流媒体解锁，近期上线电信方向优化，电信用户体验提升明显，速度确实很快很流畅。综合体验最好的依旧是[红杏云](#hongxingyun)。
 
 ---
 
@@ -1028,8 +1028,8 @@ A: 按以下顺序排查：
 
 <span id="update"></span>
 ## 📌更新纪录
-- 2026-04-14：新增主力机场：快雷go，更新overwall价格
-- 2026-04-08：新增TG频道，更新部分机场信息，新增overwall优惠码信息
+- 2026-04-14：新增主力机场：[快雷go](#kuaileigo)，更新[overwall](#overwall)价格
+- 2026-04-08：新增TG频道，更新部分机场信息，新增[overwall](#overwall)优惠码信息
 - 2026-04-05：更新仓库，收集整理所有机场梯子信息，编写文档
 
 ---
