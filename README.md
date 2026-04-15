@@ -142,7 +142,7 @@
 | 豪华-不限时 6000G | ¥688/一次性 | 1000Mbps | 最多 20 台设备 |  |
 
 <p align="center">
-  <img src="images/hongxingyun1.png" width="100%" alt="红杏云">
+  <img src="images/hongxingyun2.png" width="100%" alt="红杏云">
 </p>
 
 ---
@@ -1028,6 +1028,7 @@ A: 按以下顺序排查：
 
 <span id="update"></span>
 ## 📌更新纪录
+- 2026-04-15：更新[红杏云](#kuaileigo)节点信息图片
 - 2026-04-14：新增主力机场：[快雷go](#kuaileigo)，更新[overwall](#overwall)价格
 - 2026-04-08：新增TG频道，更新部分机场信息，新增[overwall](#overwall)优惠码信息
 - 2026-04-05：更新仓库，收集整理所有机场梯子信息，编写文档
