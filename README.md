@@ -71,14 +71,14 @@
   - [5. 万达云](#wandayun)
 - [二、备用机场（按需选择）](#backup)
   - [1. overwall](#overwall)
-  - [2. 乌龟加速](#wuguijiasu)
-  - [3. 飞鸟云](#feiniaoyun)
-  - [4. M78星云](#m78)
-  - [5. 奈云](#naiyun)
-  - [6. 渔云Cloufisher](#yuyun)
-  - [7. 悦通](#yuetong)
-  - [8. XSUS](#xsus)
-  - [9. 布丁猫](#budingcat)
+  - [2. SSRDOG](#ssrdog)
+  - [3. 乌龟加速](#wuguijiasu)
+  - [4. 飞鸟云](#feiniaoyun)
+  - [5. M78星云](#m78)
+  - [6. 奈云](#naiyun)
+  - [7. 渔云Cloufisher](#yuyun)
+  - [8. 悦通](#yuetong)
+  - [9. XSUS](#xsus)
   - [10. 魔戒](#mojie)
 - [三、优惠码汇总](#unlimited)
 - [四、选择策略](#choose)
@@ -440,8 +440,56 @@
 
 ---
 
+<span id="ssrdog"></span>
+### 2. SSRDOG - IEPL/IPLC 专线 + 全流媒体解锁
+
+**官网入口**：
+- [SSRDOG 官网](https://go.clashshome.com/ssrdog)，[备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O)
+
+**优惠码**：无（年付享6折优惠，并赠送2个月，适用轻量/标准/企业套餐）
+
+**机场档案**
+| 项目 | 详情 |
+|------|------|
+| 开业时间 | 2022 年 |
+| 老板肉身 | 新加坡 |
+| 入口与过境 | 上海/深圳国内中转 |
+| 节点地区 | 香港、台湾、日本、韩国、新加坡、美国、英国、加拿大、德国、法国、荷兰、越南等 17 个国家及地区 |
+| 节点数量 | 28-36 个（按套餐） |
+| 协议 | ShadowSocks |
+| 设备限制 | 3-10 台（按套餐） |
+| 峰值速率 | 300Mbps - 1000Mbps |
+| AI流媒体解锁 | Netflix / Disney+ / TikTok / ChatGPT 主流全解锁 |
+| 审计情况 | 无审计 |
+| 付款方式 | 支付宝 / 微信 / USDT |
+| TG 频道 | 无 |
+| 一键客户端 | Windows / Mac / Android |
+
+**核心优势**：
+- ✅ IEPL/IPLC 专线，不经过 GFW，晚高峰和敏感时期抗封锁能力强
+- ✅ 速度实测优秀，港台节点延迟低（25-50ms），均速 35-45MB/s
+- ✅ 解锁 Netflix、Disney+、TikTok、ChatGPT 等主流流媒体及 AI 工具
+- ✅ 有定制一键客户端，新手友好；支持免费试用
+
+**缺点**：
+- 价格偏中高端，不支持月付，最低季付起步
+- 历史上有过节点不稳定记录，客服响应偶有延迟
+- Spotify 仅支持已有账号登录，不支持新注册
+
+**我的使用体验**：定位中高端专线机场，稳定性是最大亮点。适合对晚高峰稳定性有要求、需要跨境办公或重度流媒体用户。建议先注册试用后再决定长期订阅。
+
+**推荐套餐**：
+
+| 套餐名称 | 季付 | 半年付 | 年付 | 流量 | 速率 | 设备 |
+|---------|------|--------|------|------|------|------|
+| 轻量套餐 | ¥67.5/季（¥22.5/月） | ¥127.5/半年（¥21.25/月） | ¥205.7/年（¥17.14/月） | 150GB | 300Mbps | 3台 |
+| 标准套餐 | ¥94.5/季（¥31.5/月） | ¥168/半年（¥28/月） | ¥288/年（¥24/月） | 300GB | 500Mbps | 5台 |
+| 企业套餐 | ¥202.5/季（¥67.5/月） | ¥382.5/半年（¥63.75/月） | ¥617.1/年（¥51.43/月） | 850GB | 1000Mbps | 10台 |
+
+---
+
 <span id="wuguijiasu"></span>
-### 2. 乌龟加速 - IEPL 专线 + 超大不限时流量包 （近期暂时切直连线路）
+### 3. 乌龟加速 - IEPL 专线 + 超大不限时流量包 （近期暂时切直连线路）
 
 **官网入口**：
 - [乌龟加速官网](https://go.clashshome.com/wuguijiasu)，[备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt)
@@ -497,7 +545,7 @@
 ---
 
 <span id="feiniaoyun"></span>
-### 3. 飞鸟云 - 年付 12 元传家宝
+### 4. 飞鸟云 - 年付 12 元传家宝
 
 **官网入口**：
 - [飞鸟云官网](https://go.clashshome.com/feiniaoyun)，[备用地址](https://feiniaoyun.xyz/#/register?code=1vKkRJmP)
@@ -549,7 +597,7 @@
 ---
 
 <span id="m78"></span>
-### 4. M78星云 - 三网 BGP + 最高 2000Mbps
+### 5. M78星云 - 三网 BGP + 最高 2000Mbps
 
 **官网入口**：
 - [M78星云官网](https://go.clashshome.com/m78xingyun)，[备用地址](https://www.m78.at/#/register?code=jv0lwSHb)
@@ -606,7 +654,7 @@
 ---
 
 <span id="naiyun"></span>
-### 5. 奈云 - 全球节点
+### 6. 奈云 - 全球节点
 
 **官网入口**：
 - [奈云官网](https://go.clashshome.com/naiyun)，[备用地址](http://6.vip.v2ny.me?path=register&code=1wIegJF2)
@@ -658,7 +706,7 @@
 ---
 
 <span id="yuyun"></span>
-### 6. 渔云Cloudfisher - 三网优化 + EMBY
+### 7. 渔云Cloudfisher - 三网优化 + EMBY
 
 **官网入口**：
 - [渔云Cloudfisher官网](https://go.clashshome.com/yuyunjc)，[备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp)
@@ -706,7 +754,7 @@
 ---
 
 <span id="yuetong"></span>
-### 7. 悦通 - 多档位套餐 + 不限时流量包 | 机场新星
+### 8. 悦通 - 多档位套餐 + 不限时流量包 | 机场新星
 
 **官网入口**：
 - [悦通官网](https://go.clashshome.com/yuetong)，[备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX)
@@ -764,7 +812,7 @@
 ---
 
 <span id="xsus"></span>
-### 8. XSUS - 移动骨干 + IEPL 企业专线
+### 9. XSUS - 移动骨干 + IEPL 企业专线
 
 **官网入口**：
 - [XSUS 官网](https://go.clashshome.com/xsusgw)，[备用地址](https://xs-us.xyz/register?code=G3gBe4Zs)
@@ -828,58 +876,6 @@
 
 <p align="center">
   <img src="images/xsus.png" width="100%" alt="XSUS">
-</p>
-
----
-
-<span id="budingcat"></span>
-### 9. 布丁猫 - 8 元起不限设备 + 专线 + 三网BGP + 稳定
-
-**官网入口**：
-- [布丁猫官网](https://go.clashshome.com/budingcat)，[备用地址](https://i8n.budingcat.xyz/#/register?code=KTdyYpN3)
-
-**机场档案**
-| 项目 | 详情 |
-|------|------|
-| 开业时间 | 2025 年 |
-| 老板肉身 | 境外 |
-| 入口与过境 | 国内、韩国、新加坡 |
-| 节点地区 | 香港、台湾、日本、新加坡、美国、英国、韩国、越南、马来西亚等 15 个国家及地区 |
-| 落地 ISP | Tencent Cloud（腾讯云）、Amazon.com |
-| 节点数量 | 50+ |
-| 协议 | VMess + VLESS |
-| 设备限制 | 不限制 |
-| AI流媒体解锁 | 解锁 |
-| 审计情况 | 无审计 |
-| 付款方式 | 支付宝 / 微信 |
-| TG 频道 | [点击加入](https://t.me/budingcat) |
-| 一键客户端 | 不支持原生客户端 |
-
-**核心优势**：
-- ✅ ¥8/月起，市场最低价之一
-- ✅ 所有套餐不限制设备数量
-- ✅ 最高 4T/月超大流量套餐可选
-- ✅ 近期升级节点后非常稳定
-
-**缺点**：
-- 有倍率，看清线路倍率再使用。但是不得不说在这波清洗潮下布丁猫居然表现得非常优秀。
-
-**我的使用体验**：我一直在用成猫-标准版。
-
-**推荐套餐**：
-
-| 套餐名称 | 价格 | 流量 | 速率 | 备注 |
-|---------|------|------|------|------|
-| 奶猫-迷你版 | ¥8/月 | 75GB | 300Mbps | 备用入门；5+地区 |
-| 幼猫-轻享版 | ¥13/月 | 150GB | 500Mbps | 性价比；10+地区 |
-| 成猫-标准版 | ¥22/月 | 300GB | 1000Mbps | 30+国家 |
-| 大猫-旗舰版 | ¥38/月 | 600GB | 1500Mbps | 40+国家 |
-| 喵皇-至尊版 1T | ¥58/月 | 1000GB | 不限速 | VIP通道 |
-| 喵皇-至尊版 2T | ¥110/月 | 2000GB | 不限速 | VIP通道 |
-| 喵皇-至尊版 4T | ¥209/月 | 4000GB | 不限速 | VIP通道 |
-
-<p align="center">
-  <img src="images/budingcat.png" width="100%" alt="布丁猫">
 </p>
 
 ---
@@ -1030,6 +1026,7 @@ A: 按以下顺序排查：
 
 <span id="update"></span>
 ## 📌更新纪录
+- 2026-04-17：新增 [SSRDOG](#ssrdog) 备用机场介绍
 - 2026-04-16：新增官网备用地址，更新[悦通](#yuetong)优惠码
 - 2026-04-15：更新[红杏云](#kuaileigo)节点信息图片
 - 2026-04-14：新增主力机场：[快雷go](#kuaileigo)，更新[overwall](#overwall)价格
