@@ -116,7 +116,7 @@
 | 审计情况 | 无审计 |
 | 付款方式 | 支付宝 / 微信 / USDT |
 | TG 频道 | [点击加入](https://t.me/Hongxingyun_bot) |
-| 一键客户端 | Windows / Mac / Android / iOS / 软路由 [官方旧的稳定版本客户端](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun) |
+| 一键客户端 | Windows / Mac / Android / iOS / 软路由 推荐[官方旧的稳定版本客户端](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun) |
 
 **核心优势**：
 - ✅ 专线 + 多地家宽、原生IP，晚高峰稳定，客服工单回复速度快
