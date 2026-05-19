@@ -10,7 +10,7 @@
 
 ## 📢 近期公告
 
-> 1、最近大部分机场都换了新协议vless-reality（由于现在落地基本都是海外所以延时普遍都高，但是延时高不代表速度卡），在订阅的工具实际测试和使用中，我的v2rayN明显优于Clash Verge，所以在遇到延迟高或者一些问题时，多换几个工具效果会不一样，当然也受不同地区和网络的影响因人而异。2、最近多地运营商墙比较高，建议优先试试：[红杏云](#hongxingyun)、[川普云](#trumpyun)、[悦通](#yuetong)、[快雷GO](#kuaileigo)。3、近期表现最优的是：[红杏云](#hongxingyun)。
+> 1、最近大部分机场都换了新协议vless-reality（由于现在落地基本都是海外所以延时普遍都高，但是延时高不代表速度卡），在订阅的工具实际测试和使用中，我的v2rayN明显优于Clash Verge，所以在遇到延迟高或者一些问题时，多换几个工具效果会不一样，当然也受不同地区和网络的影响因人而异。2、最近多地运营商墙比较高，建议优先试试：[红杏云](#hongxingyun)、[特朗普云](#trumpyun)、[悦通](#yuetong)、[快雷GO](#kuaileigo)。3、近期表现最优的是：[红杏云](#hongxingyun)。
 
 ---
 
@@ -66,7 +66,7 @@
 - [一、主力机场（重点推荐）](#main)
   - [1. 红杏云](#hongxingyun)
   - [2. 悦通](#yuetong)
-  - [3. 川普云](#trumpyun)
+  - [3. 特朗普云](#trumpyun)
   - [4. 宝可梦加速器](#baokemeng)
   - [5. 快雷go](#kuaileigo)
   - [6. 万达云](#wandayun)
@@ -210,10 +210,10 @@
 ---
 
 <span id="trumpyun"></span>
-### 3. 川普云 Trumpyun - 中转 + 专线 + 高性价比
+### 3. 特朗普云 Trumpyun - 中转 + 专线 + 高性价比
 
 **官网入口**：
-- [川普云官网](https://go.clashshome.com/trumpyun)，[备用地址](  https://trumpyun.xyz/#/register?code=ZnngCcmM)
+- [特朗普云官网](https://go.clashshome.com/trumpyun)，[备用地址](  https://trumpyun.xyz/#/register?code=ZnngCcmM)
 
 **机场档案**
 | 项目 | 详情 |
@@ -259,7 +259,7 @@
 | 线路高级定制 | ¥888/一次性 | 私有网络 | 独享带宽 | 企业/高端定制 |
 
 <p align="center">
-  <img src="images/trumpyun.png" width="100%" alt="川普云">
+  <img src="images/trumpyun.png" width="100%" alt="特朗普云">
 </p>
 
 ---
@@ -1034,7 +1034,7 @@ A: 按以下顺序排查：
 <span id="update"></span>
 
 ## 📌更新纪录
-- 2026-05-19：新增主力机场 [川普云 Trumpyun](#trumpyun)
+- 2026-05-19：新增主力机场 [特朗普云 Trumpyun](#trumpyun)
 - 2026-05-13：更新 [红杏云](#hongxingyun) 、[悦通](#yuetong)节点信息，更新[宝可梦加速器](#baokemeng)价格信息
 - 2026-05-08：更新 [SSRDOG](#ssrdog) 节点信息
 - 2026-05-07：移除[奈云]，新增备用机场[糖果云](#tangguo)
