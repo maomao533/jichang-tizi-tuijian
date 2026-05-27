@@ -68,8 +68,7 @@
   - [2. 特朗普云](#trumpyun)
   - [3. 快雷go](#kuaileigo)
   - [4. 悦通](#yuetong)
-  - [5. 宝可梦加速器](#baokemeng)
-  - [6. 万达云](#wandayun)
+  - [5. 万达云](#wandayun)
 - [二、备用机场（按需选择）](#backup)
   - [1. Mitce](#mitce)
   - [2. SSRDOG](#ssrdog)
@@ -327,63 +326,8 @@
 
 ---
 
-<span id="baokemeng"></span>
-### 5. 宝可梦加速器 - IEPL/IPLC + 新疆可用
-
-**官网入口**：
-- [宝可梦加速器官网](https://go.clashshome.com/baokemeng)，[备用地址](https://love.p6m6.com/#/register?code=74mX69ks)
-
-**优惠码**：`9999`（新用户首单 9 折）
-
-**机场档案**
-| 项目 | 详情 |
-|------|------|
-| 开业时间 | 2024 年 |
-| 老板肉身 | 境外 |
-| 入口与过境 | 国内、香港、马来西亚 |
-| 节点地区 | 香港（含家宽）、台湾（含家宽）、日本、新加坡、美国、韩国等 30+ 节点 |
-| 落地 ISP | China Mobile、Microsoft Azure、PCCW（香港）、MoeChuang |
-| 节点数量 | 100+ |
-| 协议 | Trojan + SS + Hysteria2 + VLESS |
-| 设备限制 | 5 台（中级）/ 10 台（高级）/ 不限（超凡） |
-| AI流媒体解锁 | 中级及以上（ChatGPT + 全平台流媒体） |
-| 审计情况 | 无审计 |
-| 付款方式 | 支付宝 / 微信 |
-| TG 群 | [点击加入](https://t.me/pokemon_love) |
-| 一键客户端 | Android / Windows / Mac |
-
-**核心优势**：
-- ✅ ¥7.9/月起，入门精灵球 60G，最低价之一
-- ✅ 新疆可用，直连 + 专线双保险（新疆朋友实测可用）
-- ✅ IEPL、IPLC 专线，限速 500Mbps，稳定高速
-- ✅ 100 节点，覆盖中国/香港/马来西亚
-
-**缺点**：
-- 整体可用率 78%，有约 22 个节点超时，需切换节点使用，但是节点数量够多
-- 入门套餐不含流媒体和 ChatGPT，需要中级以上，部分高级节点有倍率
-
-**我的使用体验**：新疆用户必备，直连模式延迟低。中级精灵球日常看剧稳定，客服群响应快。
-
-**推荐套餐**：
-
-| 套餐名称 | 价格 | 流量 | 速率 | 备注 |
-|---------|------|------|------|------|
-| 入门精灵球 | ¥8.9/月 | 60GB | 200Mbps | 体验入门；5 设备 |
-| 中级精灵球 | ¥19.9/月 | 180GB | 500Mbps | 性价比首选；5 设备 |
-| 高级精灵球 | ¥29.9/月 | 300GB | 500Mbps | 家庭共享；10 设备 |
-| 超凡精灵球 | ¥59.9/月 | 666GB | 500Mbps | 重度用户；不限设备 |
-| 私人定制 | ¥299/月 | TikTok直播/外贸专用 | 原生IP | 按需定价 |
-
-[点击查看宝可梦加速器测速](https://jichangtizi.com/zhulijichang/baokemeng-review/)
-
-<p align="center">
-  <img src="images/baokemeng.png" width="100%" alt="宝可梦加速器">
-</p>
-
----
-
 <span id="wandayun"></span>
-### 6. 万达云 - 专线 + 家宽 + 稳定、抗封锁能力强
+### 5. 万达云 - 专线 + 家宽 + 稳定、抗封锁能力强
 
 **官网入口**：
 - [万达云官网](https://go.clashshome.com/wandayun)，[备用地址](https://link.wdyserver.com/register?code=kfKBXYDH)
